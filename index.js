@@ -23,10 +23,3 @@ function iLoveTheBeatles(number){
     } while ([]);
   }
 }
-  
-  
-  
-  do {
-   [loopBody];
-} while ([condition]);
-}
