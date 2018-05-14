@@ -20,6 +20,7 @@ function iLoveTheBeatles(number){
   var newNumber = [];
     do {
       [];
+      number++;
     } while (["I love the Beatles!"]);
   }
   return
