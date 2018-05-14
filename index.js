@@ -18,5 +18,15 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   var newNumber = [];
+    do {
+      [];
+    } while ([]);
+  }
+}
   
+  
+  
+  do {
+   [loopBody];
+} while ([condition]);
 }
